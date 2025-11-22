@@ -31,10 +31,9 @@ $ conda --version
 ```
 ここまでできたら
 ```
-conda install -n base mamba -y
-mamba --version
+$ conda install -n base mamba -y
+$ mamba --version
 ```
-
 ## Usage
 ```bash
 $ python base.py
