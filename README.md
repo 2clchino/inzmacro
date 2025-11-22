@@ -31,7 +31,7 @@ $ conda --version
 ```
 ここまでできたら
 ```
-$ conda install -n base mamba -y
+$ conda install -n base -c conda-forge mamba -y
 $ mamba --version
 ```
 ## Usage
